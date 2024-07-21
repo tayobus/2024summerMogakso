@@ -11,6 +11,6 @@
 <활동기록>
 
 <details>
-  <summary>0차 모임 (2024년 6월 X일) - OT</summary>
-BluePrintCrew 목표 및 아이디어 선정 회의록 : 
+  <summary>1차 모임 (2024년 7월 21일) </summary>
+
 </details>
