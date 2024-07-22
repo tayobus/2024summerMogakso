@@ -15,3 +15,9 @@
 <img width="1437" alt="스크린샷 2024-07-21 오후 10 41 35" src="https://github.com/user-attachments/assets/1d55c7e9-b005-4bd5-9e4d-e69c4b5d5b7d">
 
 </details>
+
+<details>
+  <summary>2차 모임 (2024년 7월 22일) </summary>
+
+
+</details>
