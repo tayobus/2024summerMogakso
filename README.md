@@ -26,6 +26,8 @@
 
 <details>
   <summary>3차 모임 (2024년 7월 27일) </summary>
+<img width="1438" alt="스크린샷 2024-07-27 오후 9 03 54" src="https://github.com/user-attachments/assets/f319fa9b-ab17-4271-b617-15e6711ec9a1">
+<br>
 
 </details>
 
