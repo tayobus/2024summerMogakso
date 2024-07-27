@@ -13,11 +13,13 @@
 <details>
   <summary>1차 모임 (2024년 7월 21일) </summary>
 <img width="1437" alt="스크린샷 2024-07-21 오후 10 41 35" src="https://github.com/user-attachments/assets/1d55c7e9-b005-4bd5-9e4d-e69c4b5d5b7d">
-
+<br>
+  이현제:
 </details>
 
 <details>
   <summary>2차 모임 (2024년 7월 22일) </summary>
 <img width="1436" alt="스크린샷 2024-07-22 오후 9 21 23" src="https://github.com/user-attachments/assets/5236c904-6213-4d9d-ad24-c937ea897e40"> 
-
+<br>
+  이현제:
 </details>
