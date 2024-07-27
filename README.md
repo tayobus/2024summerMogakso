@@ -14,7 +14,7 @@
   <summary>1차 모임 (2024년 7월 21일) </summary>
 <img width="1437" alt="스크린샷 2024-07-21 오후 10 41 35" src="https://github.com/user-attachments/assets/1d55c7e9-b005-4bd5-9e4d-e69c4b5d5b7d">
 <br>
-  이현제:
+  이현제 - 공부내용 및 모각소 소감 : https://velog.io/@guswp320/JAVAclass-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%ED%95%A0%EB%8B%B9
 </details>
 
 <details>
