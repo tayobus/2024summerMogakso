@@ -23,3 +23,9 @@
 <br>
   이현제 - 공부내용 및 모각소 소감 : https://velog.io/@guswp320/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-address-spaces
 </details>
+
+<details>
+  <summary>3차 모임 (2024년 7월 27일) </summary>
+
+</details>
+
