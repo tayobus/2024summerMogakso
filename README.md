@@ -15,6 +15,7 @@
 <img width="1437" alt="스크린샷 2024-07-21 오후 10 41 35" src="https://github.com/user-attachments/assets/1d55c7e9-b005-4bd5-9e4d-e69c4b5d5b7d">
 <br>
   이현제 - 공부내용 및 모각소 소감 : https://velog.io/@guswp320/JAVAclass-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%ED%95%A0%EB%8B%B9
+<br>
   손영현 - 공부내용 및 모각소 소감 : https://development-diary-0h.tistory.com/24
 </details>
 
@@ -23,6 +24,7 @@
 <img width="1436" alt="스크린샷 2024-07-22 오후 9 21 23" src="https://github.com/user-attachments/assets/5236c904-6213-4d9d-ad24-c937ea897e40"> 
 <br>
   이현제 - 공부내용 및 모각소 소감 : https://velog.io/@guswp320/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-address-spaces
+<br>
   손영현 - 공부내용 및 모각소 소감 : https://development-diary-0h.tistory.com/25
 </details>
 
