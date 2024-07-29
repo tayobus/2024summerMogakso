@@ -17,6 +17,9 @@
   이현제 - 공부내용 및 모각소 소감 : https://velog.io/@guswp320/JAVAclass-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%ED%95%A0%EB%8B%B9
 <br>
   손영현 - 공부내용 및 모각소 소감 : https://development-diary-0h.tistory.com/24
+<br>
+  채범수 - 공부내용 및 모각소 소감 : https://archivision.tistory.com/1
+<br>
 </details>
 
 <details>
@@ -26,14 +29,18 @@
   이현제 - 공부내용 및 모각소 소감 : https://velog.io/@guswp320/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-address-spaces
 <br>
   손영현 - 공부내용 및 모각소 소감 : https://development-diary-0h.tistory.com/25
+<br>
+  채범수 - 공부내용 및 모각소 소감 : https://archivision.tistory.com/2
+<br>
 </details>
 
 <details>
   <summary>3차 모임 (2024년 7월 27일) </summary>
 <img width="1438" alt="스크린샷 2024-07-27 오후 9 03 54" src="https://github.com/user-attachments/assets/f319fa9b-ab17-4271-b617-15e6711ec9a1">
-
-  손영현 - 공부내용 및 모각소 소감: https://development-diary-0h.tistory.com/26
 <br>
-
+  손영현 - 공부내용 및 모각소 소감 : https://development-diary-0h.tistory.com/26
+<br>
+  채범수 - 공부내용 및 모각소 소감 : https://archivision.tistory.com/3
+<br>
 </details>
 
