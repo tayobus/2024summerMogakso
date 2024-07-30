@@ -40,6 +40,6 @@
 
 <details>
   <summary>4차 모임 (2024년 7월 30일) </summary>
-
+<img width="1433" alt="스크린샷 2024-07-30 오후 11 05 15" src="https://github.com/user-attachments/assets/9a4a5835-28cc-417b-bceb-a380f16d7bcc">
 
 </details>
