@@ -45,6 +45,7 @@
 </details>
 <details>
   <summary>5차 모임 (2024년 7월 31일) </summary>
-<img width="1433" alt="스크린샷 2024-07-30 오후 11 05 15" src="">
+<img width="1433" alt="스크린샷 2024-07-30 오후 11 05 15" src="![Uploading image.png…]()
+">
 회의록: https://development-diary-0h.tistory.com/27
 </details>
