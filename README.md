@@ -49,3 +49,9 @@
   <br>
 회의록: https://development-diary-0h.tistory.com/27
 </details>
+
+</details>
+<details>
+  <summary>6차 모임 (2024년 7월 31일) </summary>
+
+</details>
