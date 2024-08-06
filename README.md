@@ -52,6 +52,6 @@
 
 </details>
 <details>
-  <summary>6차 모임 (2024년 7월 31일) </summary>
+  <summary>6차 모임 (2024년 8월 6일) </summary>
 
 </details>
