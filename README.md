@@ -53,5 +53,6 @@
 </details>
 <details>
   <summary>6차 모임 (2024년 8월 6일) </summary>
-
+<img width="1435" alt="스크린샷 2024-08-06 오후 9 01 02" src="https://github.com/user-attachments/assets/a4b89247-24e7-4258-98fe-4e676e188261">
+  <br>
 </details>
