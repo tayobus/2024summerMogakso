@@ -42,5 +42,32 @@
 <br>
   채범수 - 공부내용 및 모각소 소감 : https://archivision.tistory.com/3
 <br>
+  이현제 - 공부내용 및 모각소 소감: https://velog.io/@guswp320/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-5%EC%9B%9424%EC%9D%BC
+
 </details>
 
+<details>
+  <summary>4차 모임 (2024년 7월 30일) </summary>
+<img width="1433" alt="스크린샷 2024-07-30 오후 11 05 15" src="https://github.com/user-attachments/assets/9a4a5835-28cc-417b-bceb-a380f16d7bcc">
+
+</details>
+<details>
+  <summary>5차 모임 (2024년 7월 31일) - 창업동아리 멘토링 활동 </summary>
+<img width="1440" alt="스크린샷 2024-07-31 오후 4 51 25" src="https://github.com/user-attachments/assets/c812073f-6076-4a74-b3c4-b8c490af8c47">
+  <br>
+회의록: https://development-diary-0h.tistory.com/27
+</details>
+
+</details>
+<details>
+  <summary>6차 모임 (2024년 8월 6일) </summary>
+<img width="1435" alt="스크린샷 2024-08-06 오후 9 01 02" src="https://github.com/user-attachments/assets/a4b89247-24e7-4258-98fe-4e676e188261">
+  <br>
+</details>
+
+</details>
+<details>
+  <summary>7차 모임 (2024년 8월 9일) </summary>
+<img width="1440" alt="스크린샷 2024-08-09 오후 9 12 05" src="https://github.com/user-attachments/assets/b879e7c0-88b6-4be0-a390-9aebdc19b9d3">
+  <br>
+</details>
