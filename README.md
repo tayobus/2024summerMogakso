@@ -44,7 +44,7 @@
 
 </details>
 <details>
-  <summary>5차 모임 (2024년 7월 31일) - 창업동아리 멘토멘티 활동 </summary>
+  <summary>5차 모임 (2024년 7월 31일) - 창업동아리 멘토링 활동 </summary>
 <img width="1440" alt="스크린샷 2024-07-31 오후 4 51 25" src="https://github.com/user-attachments/assets/c812073f-6076-4a74-b3c4-b8c490af8c47">
   <br>
 회의록: https://development-diary-0h.tistory.com/27
